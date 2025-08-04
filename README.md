@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/[Parsa-Paktinat/Python-Crash-Course-Solutions/misc/logo.png?raw=true" alt="Python Crash Course Logo" width="400">
+  <br>
+  <em>Python Crash Course, 3rd Edition</em>
+</p>
+
 # My Solutions for "Python Crash Course, 3rd Edition"
 
 ![Python Crash Course Logo](misc/logo.png)
