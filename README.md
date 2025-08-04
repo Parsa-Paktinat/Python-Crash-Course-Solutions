@@ -1,9 +1,7 @@
 <h1 align = "center"> Python Crash Course: 3rd Edition </h1>
-<img src = "misc/logo.jpg" align = "center" width  = "300">
+<img src = "misc/logo.png" align = "center" width  = "300">
 
 # My Solutions for "Python Crash Course, 3rd Edition"
-
-![Python Crash Course Logo](misc/logo.png)
 
 **⚠️ Spoiler Warning!**
 > This repository contains my personal solutions to the exercises from the book "Python Crash Course, 3rd Edition" by Eric Matthes. Please use them responsibly and avoid copying the code before attempting to solve the problems yourself.
