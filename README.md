@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://github.com/[Parsa-Paktinat/Python-Crash-Course-Solutions/misc/logo.png?raw=true" alt="Python Crash Course Logo" width="400">
-  <br>
-  <em>Python Crash Course, 3rd Edition</em>
-</p>
+<h1 align = "center"> Python Crash Course: 3rd Edition </h1>
+<img src = "misc/logo.jpg" align = "center" width  = "300">
 
 # My Solutions for "Python Crash Course, 3rd Edition"
 
