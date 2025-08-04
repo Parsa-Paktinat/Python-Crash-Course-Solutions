@@ -1,8 +1,6 @@
-![Python Crash Course Logo](httpsmisc/logo.png) >
-
 # My Solutions for "Python Crash Course, 3rd Edition"
 
- **⚠️ Spoiler Warning!**
+![Python Crash Course Logo](httpsmisc/logo.png) > **⚠️ Spoiler Warning!**
 > This repository contains my personal solutions to the exercises from the book "Python Crash Course, 3rd Edition" by Eric Matthes. Please use them responsibly and avoid copying the code before attempting to solve the problems yourself.
 
 ---
