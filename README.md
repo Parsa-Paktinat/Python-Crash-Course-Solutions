@@ -1,5 +1,8 @@
-<h1 align = "center"> Python Crash Course: 3rd Edition </h1>
-<img src = "misc/logo.png" align = "center" width  = "300">
+<p align="center">
+  <img src="misc/logo.png" alt="Python Crash Course Logo" width="400">
+  <br>
+  <em>Python Crash Course, 3rd Edition</em>
+</p>
 
 # My Solutions for "Python Crash Course, 3rd Edition"
 
