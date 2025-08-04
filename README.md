@@ -1,8 +1,9 @@
 <img width="338" height="443" alt="image" src="https://github.com/user-attachments/assets/a7f37838-aa49-426a-8005-991396d905a7" />
+![Python Crash Course Logo](httpsmisc/logo.png) >
 
 # My Solutions for "Python Crash Course, 3rd Edition"
 
-![Python Crash Course Logo](httpsmisc/logo.png) > **⚠️ Spoiler Warning!**
+ **⚠️ Spoiler Warning!**
 > This repository contains my personal solutions to the exercises from the book "Python Crash Course, 3rd Edition" by Eric Matthes. Please use them responsibly and avoid copying the code before attempting to solve the problems yourself.
 
 ---
