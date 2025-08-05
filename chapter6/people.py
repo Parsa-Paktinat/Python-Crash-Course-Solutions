@@ -14,7 +14,7 @@ person3 = {
     'first_name': 'Hasan',
     'last_name': 'Zare',
     'age': 19,
-    'city': 'Yazd'
+    'city': 'Tabriz'
 }
 
 people = [person1, person2, person3]
