@@ -1,5 +1,5 @@
 favorite_places = {
-    'Parsa': ['Veniz', 'Rome', 'Florance'],
+    'Parsa': ['Venice', 'Rome', 'Florance'],
     'Ali': ['Amsterdam', 'Vancour', 'paris'],
     'Hassan': ['Madine', 'Make', 'Karbala']
 }
