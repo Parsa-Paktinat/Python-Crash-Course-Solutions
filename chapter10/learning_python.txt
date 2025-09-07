@@ -1,0 +1,9 @@
+In Python I've learned For loops
+While loops in Python
+print function and stripping strings in Python are fun
+classes are important things in Python
+functions are common in Python
+reading from a file in easy in Python
+.
+.
+.
