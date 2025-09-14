@@ -21,14 +21,17 @@ def greet_user():
     """Greet the user by name."""
     path = Path('username.json')
     username = get_stored_username(path)
+    
     if username:
         print(f"The current username is: {username}")
         is_correct_user = input('Is this your username? (y/n) ')
+
         if is_correct_user == 'y':
             print(f"welcome back, {username}!")
         elif is_correct_user == 'n':
             username = store_username(path)
             print(f"We'll remember you when you come back, {username}!")
+
     else:
         username = store_username(path)
         print(f"We'll remember you when you come back, {username}!")
