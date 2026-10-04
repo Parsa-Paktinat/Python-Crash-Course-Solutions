@@ -31,12 +31,6 @@ Each folder contains the `.py` files for the "Try It Yourself" exercises of that
 
 ---
 ## Credits 
-|  Student Name  |       School      | Student ID |
-|:-------------- | :---------------- | :--------- |
-| Parsa Paktinat | EE Department, SUT|  403101518 |
-
----
-
-## License
-
-The code in this repository is licensed under the [MIT License](LICENSE).
+|  Student Name  |       School      |
+|:-------------- | :---------------- |
+| Parsa Paktinat | EE Department, SUT|
